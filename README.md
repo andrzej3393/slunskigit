@@ -38,5 +38,5 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
         szychta = !git add -A && git commit -av
         # wydupc stare asty / delete merged
         ordnung = "!git branch --merged | grep -v '\\*' | xargs -n 1 git branch -d; git remote -v update -p"
-
+        naszteluj = config
 ```
