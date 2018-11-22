@@ -23,8 +23,9 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
         ciulnij = push -f
         abszlag = merge --abort
         niy = merge --abort
-        rychtuj = clone
+        narychtuj = init
         tukej = clone
+        dej = clone
         asta = branch
         loboc = show
         glancuj = commit --amend
@@ -33,6 +34,7 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
         geszichta = log
         gyszichta = log
         rajch = remote -v
+        inkszy = remote -v
         sztof = diff
         szychta = !git add -A && git commit -av
         # wydupc stare asty / delete merged
