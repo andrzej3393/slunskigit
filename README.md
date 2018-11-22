@@ -14,7 +14,7 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
         szrajbnij = commit
         haja = blame
         ftoryciul = blame
-        podziwejsie = checkout
+        inkszy = checkout
         kamerlik = stash
         tasza = stash
         upa = stash pop
@@ -23,8 +23,9 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
         ciulnij = push -f
         abszlag = merge --abort
         niy = merge --abort
-        rychtuj = clone
+        narychtuj = init
         tukej = clone
+        dej = clone
         asta = branch
         loboc = show
         glancuj = commit --amend
