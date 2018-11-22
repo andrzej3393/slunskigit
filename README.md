@@ -14,7 +14,7 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
         szrajbnij = commit
         haja = blame
         ftoryciul = blame
-        podziwejsie = checkout
+        inkszy = checkout
         kamerlik = stash
         tasza = stash
         upa = stash pop
@@ -34,7 +34,6 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
         geszichta = log
         gyszichta = log
         rajch = remote -v
-        inkszy = remote -v
         sztof = diff
         szychta = !git add -A && git commit -av
         # wydupc stare asty / delete merged
