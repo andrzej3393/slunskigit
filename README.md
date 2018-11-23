@@ -33,6 +33,7 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
         nahasiok = reset HEAD --hard
         geszichta = log
         gyszichta = log
+        gorolski = remote
         rajch = remote -v
         sztof = diff
         szychta = !git add -A && git commit -av
