@@ -11,6 +11,8 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
 
 ```
 [alias]
+        dodej = add
+        wyciep = rm
         szrajbnij = commit
         haja = blame
         ftoryciul = blame
@@ -40,4 +42,5 @@ Aby z nich skorzystać, jedyne co musisz zrobić to dodać poniższe linijki do 
         # wydupc stare asty / delete merged
         ordnung = "!git branch --merged | grep -v '\\*' | xargs -n 1 git branch -d; git remote -v update -p"
         naszteluj = config
+        kajtoje = grep
 ```
