@@ -1,8 +1,8 @@
 Ślůnski git
 ===========
 
-Dodej trocha wůnglu do swojygo gita!
-------------------------------------
+Dociep trocha wůnglu do swojygo gita!
+-------------------------------------
 
 Zainspirowany [podlaskim gitem](https://github.com/maciejkorsan/podlaskigit) postanowiłem utworzyć śląską wersję git aliasów.
 
